@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">💻 Student of Systems Development and Data Science (both in the first module)<br>🚀 Passionate about technology, programming, data, and continuous learning.<br>🔧 Currently working on projects using Python, SQL, HTML, CSS, and Git.<br>🎯 Interests: web development, data analysis, automation, and problem-solving.<br>📚 Always open to new challenges and opportunities to grow in the tech field.</p>
+<p align="left">💻 Student of Systems Development and Data Science <br>🚀 Passionate about technology, programming, data, and continuous learning.<br>🔧 Currently working on projects using Python, SQL, HTML, CSS, and Git.<br>🎯 Interests: web development, data analysis, automation, and problem-solving.<br>📚 Always open to new challenges and opportunities to grow in the tech field.</p>
 
 ###
 
