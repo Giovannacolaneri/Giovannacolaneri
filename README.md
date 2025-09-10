@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">👩‍💻Técnica em Desenvolvimento de Sistemas e Ciência de Dados <br> 🎯Focada no aprendizado nas linguagens Java, Javascript, Python, Php e Sql<br>  </p>
+<p align="left">📚Estudante Técnica em Desenvolvimento de Sistemas e Ciência de Dados   </p>
 
 ###
 
